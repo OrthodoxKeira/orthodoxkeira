@@ -1,16 +1,22 @@
-## Hi there 👋
+### Привет, я Глеб
 
-<!--
-**OrthodoxKeira/orthodoxkeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+30 лет, Минск.  
+Сейчас плотно вхожу в тестирование и собираю нормальное портфолио.
 
-Here are some ideas to get you started:
+На данный момент преподаю и целенаправленно перехожу в QA.  
+Закрыл базу по теории, пишу тест-кейсы, чек-листы и баг-репорты, практикуюсь на реальных демо-сайтах.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Что умею сейчас
+
+- Тест-дизайн, чек-листы, тест-кейсы, баг-репорты
+- Функциональное и UI-тестирование
+- Базовый API-тестирование (Postman)
+- SQL, DevTools, Jira
+- Английский B2
+
+### Главное, на что смотреть
+
+**[QA Grimoire](https://github.com/OrthodoxKeira/QA_grimoire)** — моя база знаний + практические кейсы  
+Там можно посмотреть, как я оформляю артефакты и как подхожу к тестированию.
+
+Пиши в Telegram: [@Keira314](https://t.me/Keira314)
